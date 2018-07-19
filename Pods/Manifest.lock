@@ -1,0 +1,30 @@
+PODS:
+  - CoreStore (5.1.1)
+  - FoursquareAPIClient (4.0.1)
+  - Hero (1.2.0)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+
+DEPENDENCIES:
+  - CoreStore (~> 5.0)
+  - FoursquareAPIClient
+  - Hero
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CoreStore
+    - FoursquareAPIClient
+    - Hero
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  CoreStore: 40c48542f6d48b825326fbc3a6f5934e3353533b
+  FoursquareAPIClient: 12fbe6aa7b11485ee8314c7590458b6baa226f4e
+  Hero: 33dadf2cd1c98af71e213dcbc2902e6e03622a4e
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+
+PODFILE CHECKSUM: 51d4f8d630cd3db1a98388548edf86a2c551d6be
+
+COCOAPODS: 1.5.3
